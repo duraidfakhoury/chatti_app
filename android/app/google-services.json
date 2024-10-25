@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61531563595",
+    "project_id": "chattiapp-9ca75",
+    "storage_bucket": "chattiapp-9ca75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61531563595:android:d137680cb1ed3cb1614fce",
+        "android_client_info": {
+          "package_name": "chatti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG63Mv1OvuG684WwMq3SDqZYiKY_R3XWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
